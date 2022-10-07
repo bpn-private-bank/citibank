@@ -1,4 +1,3 @@
 This is used for clean space in disk 
-cleaned.. done done
-last
-First,
+cleaned sucessfully by using sript 
+cleaned done done
